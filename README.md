@@ -5,3 +5,5 @@ This repository is used by Dr Dave Lunt, University of Hull, UK to teach second 
 It includes a Jupyter notebook that helps the student learning to navigate and examine files at the command line. It will therefore require a unix kernel for the notebook. Data files needed for the exercises are included, some of those for the blast exercise are large, maybe 50Mb.
 
 The second practical session teaches the student to create a blast database and search it from the command line in order to investigate CF mutations.
+
+Kat Valero edited the jupyter notebook for the Intro to unix and blast session in May 2020 to include cell magics and fixed some minor errors with filepaths.  
